@@ -61,7 +61,7 @@ int main() {
     bool bigZombie;
 
     //Juego
-    
+
     std::cout << "Bienvenido al apocalípsis Zombie" << std::endl << "Presiona [ENTER] para empezar";
     std::cout << std::endl;
     std::cout << std::endl;
@@ -166,6 +166,7 @@ int main() {
     std::cout << "Rodolfo Manuel Castañeda Castro a.k.a El Flipy" << std::endl;
     std::cout << "Alejando Sandoval Alaniz" << std::endl;
     std::cout << "Juan Raúl Ramos Juárez" << std::endl;
+    std::cout << "Wesley Daniel Lizardo González a.k.a Commit" << std::endl;
     std::cout << "caca1" << std::endl;
     std::cout << std::endl;
 
